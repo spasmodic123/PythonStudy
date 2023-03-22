@@ -1,0 +1,5 @@
+
+Traceback (most recent call last):
+  File "C:\Python123pro\mypy22    traceback.py", line 8, in <module>
+    print(c)
+NameError: name 'c' is not defined
